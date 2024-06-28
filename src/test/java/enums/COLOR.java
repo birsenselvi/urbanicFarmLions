@@ -16,6 +16,10 @@ public enum COLOR {
 
     private String HEX;
 
+
+
+
+
     private String RGBA;
 
 
